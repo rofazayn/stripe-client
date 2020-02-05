@@ -1,0 +1,18 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  .donation-form {
+    display: grid;
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    .form-field {
+      min-width: 100%;
+      margin-bottom: 1rem;
+    }
+    button {
+      height: 60px;
+    }
+  }
+}
