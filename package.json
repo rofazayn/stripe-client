@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "@material-ui/types": "^4.1.1",
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "node-sass": "^9.0.0",
     "react": "^16.9.0",
     "react-credit-card-input": "^1.1.5",
